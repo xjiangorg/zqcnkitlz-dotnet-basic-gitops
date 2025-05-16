@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zqcnkitlz-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/zqcnkitlz-dotnet-basic-gitops
